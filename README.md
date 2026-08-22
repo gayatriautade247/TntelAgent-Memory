@@ -1,7 +1,7 @@
 # TntelAgent-Memory
 An AI-powered context and memory management system that remembers recent interactions and important user information, enabling the agent to maintain context across multiple tasks and provide more relevant responses.
 
-member name 1.gayatri autade 2.mans wake 3.shruti dange
+member name 1.gayatri autade 2.mansi wake 3.shruti dange
 IntelAgent should remember relevant information from previous interactions
 HTML5 – Creates the memory section, cards, inputs, and buttons.
 CSS3 – Styles the memory dashboard, cards, status indicator, and layout.
